@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PaakDelivery</string>
+    <string name="customer_name">Customer Name:</string>
+    <string name="Address">Address:</string>
+    <string name="Address_value">Address</string>
+    <string name="customer_name_value">Customer Name</string>
+    <string name="instructions">Instructions:</string>
+    <string name="instructions_value">Instructions</string>
+</resources>
